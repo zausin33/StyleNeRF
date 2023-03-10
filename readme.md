@@ -4,6 +4,7 @@ rendering 3D scenes.
 
 <p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/poster.pdf">Poster</a></p>
 <p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/paper.pdf">Report</a></p>
+<p><a href="https://www.youtube.com/watch?v=-EQwxKx1S4M">Video</a></p>
 
 This code is based on torch-ngp
 
