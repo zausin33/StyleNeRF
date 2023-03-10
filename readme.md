@@ -87,9 +87,5 @@ torch-ngp
     year = {2022}
 }
 ```
-
-<object data="https://github.com/zausin33/StyleNeRF/blob/main/assets/poster.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets/poster.pdf">
-        <p>Poster <a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/poster.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/poster.pdf">Poster</a></p>
+<p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/paper.pdf">Report</a></p>
