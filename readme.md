@@ -2,6 +2,9 @@
 Applying Artistic Style Transfer to Neural Radiance Field (NeRF), a neural network for
 rendering 3D scenes.
 
+<p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/poster.pdf">Poster</a></p>
+<p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/paper.pdf">Report</a></p>
+
 This code is based on torch-ngp
 
 <img src="assets/fox.gif" height="342"/>
@@ -87,5 +90,3 @@ torch-ngp
     year = {2022}
 }
 ```
-<p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/poster.pdf">Poster</a></p>
-<p><a href="https://github.com/zausin33/StyleNeRF/blob/main/assets/paper.pdf">Report</a></p>
